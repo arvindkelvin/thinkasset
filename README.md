@@ -79,7 +79,7 @@ As these were created by third-parties, Snipe-IT cannot provide support for thes
 
 ### Contributing
 
-Please see the documentation on [contributing and developing for Snipe-IT](https://snipe-it.readme.io/docs/contributing-overview).
+Please see the documentation on [contributing and developing for snipe it, the parent source code for thinkasset](https://snipe-it.readme.io/docs/contributing-overview).
 
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
@@ -90,13 +90,14 @@ The ERD is available [online here](https://drawsql.app/templates/snipe-it).
 
 ### Security
 
-To report a security vulnerability, please email security@snipeitapp.com instead of using the issue tracker. 
+To report a security vulnerability, please email helpdesk@thinksynq.in instead of using the issue tracker. 
 
 -----
 
 ### Contributors
 
-Thanks goes to all of these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)) who have helped Snipe-IT get this far:
+The thinkasset team who were involved in this have done a fanstastic job especially the IAM team and mobile team who have made this possible.
+Thanks also goes to all of these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)) who have helped Snipe-IT get this far without which thinkasset would not have been possible:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 | [<img src="https://avatars3.githubusercontent.com/u/197404?v=3" width="110px;"/><br /><sub>snipe</sub>](http://www.snipe.net)<br />[💻](https://github.com/snipe/snipe-it/commits?author=snipe "Code") [🚇](#infra-snipe "Infrastructure (Hosting, Build-Tools, etc)") [📖](https://github.com/snipe/snipe-it/commits?author=snipe "Documentation") [⚠️](https://github.com/snipe/snipe-it/commits?author=snipe "Tests") [🐛](https://github.com/snipe/snipe-it/issues?q=author%3Asnipe "Bug reports") [🎨](#design-snipe "Design") [👀](#review-snipe "Reviewed Pull Requests") | [<img src="https://avatars0.githubusercontent.com/u/36335?v=3" width="110px;"/><br /><sub>Brady Wetherington</sub>](http://www.uberbrady.com)<br />[💻](https://github.com/snipe/snipe-it/commits?author=uberbrady "Code") [📖](https://github.com/snipe/snipe-it/commits?author=uberbrady "Documentation") [🚇](#infra-uberbrady "Infrastructure (Hosting, Build-Tools, etc)") [👀](#review-uberbrady "Reviewed Pull Requests") | [<img src="https://avatars0.githubusercontent.com/u/3803132?v=3" width="110px;"/><br /><sub>Daniel Meltzer</sub>](https://github.com/dmeltzer)<br />[💻](https://github.com/snipe/snipe-it/commits?author=dmeltzer "Code") [⚠️](https://github.com/snipe/snipe-it/commits?author=dmeltzer "Tests") [📖](https://github.com/snipe/snipe-it/commits?author=dmeltzer "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/1609106?v=3" width="110px;"/><br /><sub>Michael T</sub>](http://www.tuckertechonline.com)<br />[💻](https://github.com/snipe/snipe-it/commits?author=mtucker6784 "Code") | [<img src="https://avatars2.githubusercontent.com/u/3274937?v=3" width="110px;"/><br /><sub>madd15</sub>](https://github.com/madd15)<br />[📖](https://github.com/snipe/snipe-it/commits?author=madd15 "Documentation") [💬](#question-madd15 "Answering Questions") | [<img src="https://avatars2.githubusercontent.com/u/894126?v=3" width="110px;"/><br /><sub>Vincent Sposato</sub>](https://github.com/vsposato)<br />[💻](https://github.com/snipe/snipe-it/commits?author=vsposato "Code") | [<img src="https://avatars0.githubusercontent.com/u/1639757?v=3" width="110px;"/><br /><sub>Andrea Bergamasco</sub>](https://github.com/vjandrea)<br />[💻](https://github.com/snipe/snipe-it/commits?author=vjandrea "Code") |
