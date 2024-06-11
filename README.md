@@ -1,21 +1,22 @@
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/snipe-it/localized.svg)](https://crowdin.com/project/snipe-it) [![Docker Pulls](https://img.shields.io/docker/pulls/snipe/snipe-it.svg)](https://hub.docker.com/r/snipe/snipe-it/) [![Twitter Follow](https://img.shields.io/twitter/follow/snipeitapp.svg?style=social)](https://twitter.com/snipeitapp)  [![Codacy Badge](https://api.codacy.com/project/badge/Grade/553ce52037fc43ea99149785afcfe641)](https://www.codacy.com/app/snipe/snipe-it?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=snipe/snipe-it&amp;utm_campaign=Badge_Grade)
 [![All Contributors](https://img.shields.io/badge/all_contributors-326-orange.svg?style=flat-square)](#contributors) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/yZFtShAcKk) [![huntr](https://cdn.huntr.dev/huntr_security_badge_mono.svg)](https://huntr.dev)
 
-## Snipe-IT - Open Source Asset Management System
+## thinkasset - The Comprehensive Asset Management System
 
-This is a FOSS project for asset management in IT Operations. Knowing who has which laptop, when it was purchased in order to depreciate it correctly, handling software licenses, etc.
+This is a comprehensive project for asset management in IT Operations forked from the famous Snipe IT asset management source code. Knowing who has which laptop, when it was purchased in order to depreciate it correctly, handling software licenses, etc.
 
 It is built on [Laravel 8](http://laravel.com).
 
-Snipe-IT is actively developed and we [release quite frequently](https://github.com/snipe/snipe-it/releases). ([Check out the live demo here](https://snipeitapp.com/demo/).)
+thinkasset is actively developed and we [release quite frequently](https://github.com/arvindkelvin/thinkasset/releases). ([Check out the live demo of the FOSS software here](https://snipeitapp.com/demo/).)
 
 __This is web-based software__. This means there is no executable file (aka no .exe files), and it must be run on a web server and accessed through a web browser. It runs on any Mac OSX, flavor of Linux, as well as Windows, and we have a [Docker image](https://snipe-it.readme.io/docs/docker) available if that's what you're into.
 
+We also have a mobile app that can be downloaded from the Google Playstore for Android mobiles and App store for iOS mobiles. It is called thinkasset.
 -----
 
 ### Installation
 
-For instructions on installing and configuring Snipe-IT on your server, check out the [installation manual](https://snipe-it.readme.io/docs). (Please see the [requirements documentation](https://snipe-it.readme.io/docs/requirements) for full requirements.)
+For instructions on installing and configuring thinkasset on your server, check out the [installation manual](https://snipe-it.readme.io/docs). (Please see the [requirements documentation](https://snipe-it.readme.io/docs/requirements) for full requirements.)
 
 If you're having trouble with the installation, please check the [Common Issues](https://snipe-it.readme.io/docs/common-issues) and [Getting Help](https://snipe-it.readme.io/docs/getting-help) documentation, and search this repository's open *and* closed issues for help.
 
